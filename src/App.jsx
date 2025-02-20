@@ -10,7 +10,7 @@ export default function App(){
     return [
       {
        name:"Sandy",
-       details:['age : 23', 'Job-role : Solar Technision']
+       details:['age : 23', 'Job-role : solar Technision']
       },
       {
        name:"Deepu",
